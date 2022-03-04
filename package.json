@@ -22,6 +22,7 @@
 		"node": ">=16"
 	},
 	"dependencies": {
+		"@derhuerst/socks-agent-with-socket-ttl": "^1.0.0",
 		"cached-hafas-client": "^4.0.0",
 		"hafas-client": "^5.16.0",
 		"hafas-gtfs-rt-feed": "^7.3.0",
